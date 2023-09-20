@@ -18,7 +18,7 @@ Given the following folder structure of videos from several locations:
     * Video_20230601070000.mp4
     * Video_20230601080203.mp4
 
-*Note: None of the video starting timestamps are overlapping.*
+*Note: None of the video starting timestamps are overlapping. The files are just example files, and are empty.*
 
 And snippet of label document as shown here:
 
@@ -37,7 +37,7 @@ And snippet of label document as shown here:
 Create a script, that can be run from the command line.
 
 * It should read the timestamped labels CSV file.
-* Traverse folder structure for video files
+* Traverse folder structure for video files.  
 * Join these data and find corresponding 
   * Path to video file
   * Location
@@ -50,3 +50,4 @@ Create a script, that can be run from the command line.
   * seconds_into
 * Language could be either Python or NodeJS
 * You can freely choose to use whichever library you want to make the job easier.
+* Feel free to ask if you have problems or questions.
