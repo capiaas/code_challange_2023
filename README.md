@@ -18,7 +18,9 @@ Given the following folder structure of videos from several locations:
     * Video_20230601070000.mp4
     * Video_20230601080203.mp4
 
-*Note: None of the video starting timestamps are overlapping. The files are just example files, and are empty.*
+*Note:*
+  * *For each location; next video starts when previous ends. No gaps. No overlaps.*
+  * *The files are just example files, and are empty.*
 
 And snippet of label document as shown here:
 
